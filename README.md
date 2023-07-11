@@ -1,4 +1,4 @@
-### Hi there <img src="./assets/waving.gif" width='30'>
+## Hi there <img src="./assets/waving.gif" width='30'>
 
 ### I am Berkay, a Data Enthusiast with a mathematical background
 
