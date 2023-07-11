@@ -1,6 +1,6 @@
 ## Hi there <img src="./assets/waving.gif" width='30'>
 
-### I am Berkay, a passionate Data enthusiast with a mathematical background
+### I am Berkay, a Data enthusiast with a mathematical background
 
 - :mortar_board: I've just finished Data Science Bootcamp.
 - 🌱 I’m currently working on my portfolio and keep learning
