@@ -7,7 +7,7 @@
 - :mag_right: I'm actively looking for a job to gain experience
 
 ### GitHub Stats
-![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berkay-Bozkurt&count_private=true&show_icons=true&theme=nightowl&hide_title=true&langs_count=2)
+![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berkay-Bozkurt&show_icons=true&theme=nightowl&hide)
 
 
 ### Feel free to reach out! 🤝
