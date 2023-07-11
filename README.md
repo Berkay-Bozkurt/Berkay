@@ -1,13 +1,13 @@
 ## Hi there <img src="./assets/waving.gif" width='30'>
 
-### I am Berkay, a Data Enthusiast with a mathematical background
+### I am Berkay, a passionate Data enthusiast with a mathematical background
 
 - :mortar_board: I've just finished Data Science Bootcamp.
 - 🌱 I’m currently working on my portfolio and keep learning
 - :mag_right: I'm actively looking for a job to gain experience
 
 ### GitHub Stats
-![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berkay-Bozkurt&show_icons=true&theme=nightowl&hide)
+![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berkay-Bozkurt&count_private=true&show_icons=true&theme=nightowl&hide_title=true&langs_count=2)
 
 
 ### Feel free to reach out! 🤝
